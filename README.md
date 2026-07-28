@@ -12,7 +12,8 @@ Repository to demonstrate my Autopilot unit I built
 <h3>YouTube video demo link</h3>
 https://www.youtube.com/watch?v=P9kFt6cFl4A&t=1s
 
-<h3 href="https://youtube.com/shorts/tZl5BSL_nC0?feature=share">Without commentary</h3>
+<h3>Without commentary</h3>
+https://youtube.com/shorts/tZl5BSL_nC0?feature=share
 
 ---
 
