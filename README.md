@@ -30,6 +30,8 @@ Anyways enough self-glazing. The reason I was able to 3D print the parts is than
 
 To comply with the bureaucracy of "highway", there's also this JOURNAL.md file you can check out to see my development process
 
+---
+
 **How the FCU works**
 
 The way the FCU works is simple:
@@ -44,6 +46,7 @@ The way the FCU works is simple:
 2. Mobiflight translates MSFS signal and sends to Arduino according to programed instrictions.
 3. Arduino tell components what to do
 
+---
 
 <h3>Pictures of my project</h3>
 
