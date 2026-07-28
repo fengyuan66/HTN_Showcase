@@ -10,7 +10,9 @@
 Repository to demonstrate my Autopilot unit I built
 
 <h3>YouTube video demo link</h3>
-https://youtu.be/Q90917BsKVE
+https://www.youtube.com/watch?v=P9kFt6cFl4A&t=1s
+
+<h3 href="https://youtube.com/shorts/tZl5BSL_nC0?feature=share">Without commentary</h3>
 
 ---
 
@@ -71,8 +73,6 @@ Picture of my STEP file, all components have been laid out in printable form
 **Wiring schematic**
 
 ![alt text](Assets/FCU_WIRING_DIAGRAM_PDF.svg)
-
-
 
 
 <h3>BOM</h3>
