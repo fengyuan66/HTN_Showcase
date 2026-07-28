@@ -6,11 +6,13 @@
   />
 </p>
 
-# FCU
+# Autopilot demo!
 Repository to demonstrate my Autopilot unit I built
 
 <h3>YouTube video demo link</h3>
 https://youtu.be/Q90917BsKVE
+
+---
 
 <h3>How does it work? / Stack credits</h3>
 
@@ -18,9 +20,11 @@ https://youtu.be/Q90917BsKVE
 
 To make this, a really important open-source middleman was [Mobiflight](https://mobiflight.com/download/). This software interfaces an Arduino's inputs with the MSFS program. Tuning to specific aircraft models or specific game versions is also conveniently done via a graphical interface
 
+
 **Hack Club**
 
-Hack Club is a nonprofit based in the US, and it basically connects tech-loving teenagers with one another. In fact, I'm a pretty active member of the Hack Club community in Vancouver and leads the two largest Hack Club chapters in the Lower Mainland (you can read about the time I hosted a 120-people hackathon here. I actually originally intended for this to be my application but I figured the FCU would be more fitting).
+> [!NOTE]
+>Hack Club is a nonprofit based in the US, and it basically connects tech-loving teenagers with one another. In fact, I'm a pretty active member of the Hack Club community in Vancouver and leads the two largest Hack Club chapters in the Lower Mainland (you can read about the time I hosted a 120-people hackathon here. I actually originally intended for this to be my application but I figured the FCU would be more fitting).
 
 Anyways enough self-glazing. The reason I was able to 3D print the parts is thanks to someone I knew from Hack Club who lives in Toronto, and I connected with him and paid him money to 3D print my designs and ship it over. At the time, Hack Club also happened to run a programme called "Highway", where high school students who build projects could get funding for the parts they need. This project was submitted to that programme so that the component cost could be waived. Huge thanks to Hack Club!
 
