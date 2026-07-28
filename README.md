@@ -12,7 +12,7 @@ Hack Club is a nonprofit based in the US, and it basically connects tech-loving 
 
 Anyways enough self-glazing. The reason I was able to 3D print the parts is thanks to someone I knew from Hack Club who lives in Toronto, and I connected with him and paid him money to 3D print my designs and ship it over. At the time, Hack Club also happened to run a programme called "Highway", where high school students who build projects could get funding for the parts they need. This project was submitted to that programme so that the component cost could be waived. Huge thanks to Hack Club!
 
-To comply with the bureaucracy of "highway", there's also this JOURNAL.md file you can check out to see my development project
+To comply with the bureaucracy of "highway", there's also this JOURNAL.md file you can check out to see my development process
 
 The way the FCU works is simple:
 
