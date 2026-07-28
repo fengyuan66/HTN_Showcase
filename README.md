@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./Assets/Autopilot.png"
+    alt="Project hero banner"
+    width="100%"
+  />
+</p>
+
 # FCU
 Repository to demonstrate my Autopilot unit I built
 
@@ -61,8 +69,6 @@ Picture of my STEP file, all components have been laid out in printable form
 
 
 <h3>BOM</h3>
-
-Note: Some parts have cheaper alternatives, but the parts I selected ensured that I knew the exact dimension for 3D printing the panel (Aliexpress sellers don't often include dimensions, but I saw another person's tutorial with dimensions of certain parts so I used the exact same parts as they did to referencing their panel dimensions), and saves the need to 3D print because the resemble irl cockpit designs.
 
 |Platform  |Description                             |Price per listed lot|# of parts per listed lot|Lots purchased   |Final price (CAD)|Final price (USD)|Already owned?     |Comments                                                                                                                                                                                                                                                                                        |Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |----------|----------------------------------------|--------------------|-------------------------|-----------------|-----------------|-----------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
